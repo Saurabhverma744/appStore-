@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.lists {
+  list-style-type: none;
+}
+.img {
+  width: 100px;
+}
+.contain {
+  border-radius: 10px;
+  background-color: #ffffff;
+  padding: 20px;
+  margin: 10px;
+}
+.name {
+  font-weight: bold;
+  font-family: Bree Serif;
+  text-align: center;
+}
